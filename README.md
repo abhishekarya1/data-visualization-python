@@ -14,3 +14,4 @@
 ## References
 - Corey Schafer - [YouTube](https://www.youtube.com/@coreyms)
 - Matplotlib - [Official Docs](https://matplotlib.org/stable/tutorials/index.html)
+- https://python-charts.com (Really good short tutorials with code snippets)
