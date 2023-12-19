@@ -5,7 +5,7 @@
 2. [Simple Plot](simple-plot.ipynb)
 3. [Bar Chart](bar-chart.ipynb)
 4. [Pie Chart](pie-chart.ipynb)
-5. [Stack Plot](stack-plot.ipynb)
+5. [Area Chart](stack-plot.ipynb) (Stack Plot)
 
 ## Running Notebooks
 - Setup locally using `pip install notebook`
