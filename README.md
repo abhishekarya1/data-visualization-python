@@ -4,6 +4,10 @@
 1. [Introduction to Jupyter Notebook](notebook-basics.ipynb)
 2. [Simple Plot](simple-plot.ipynb)
 
+## Running Notebooks
+- Setup locally using `pip install notebook`
+- or use [Google Colab](https://colab.google/) in the browser
+
 ## References
 - Corey Schafer - [YouTube](https://www.youtube.com/@coreyms)
 - Matplotlib - [Official Docs](https://matplotlib.org/stable/tutorials/index.html)
